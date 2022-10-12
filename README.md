@@ -26,5 +26,5 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://e7.pngegg.com/pngimages/251/533/png-clipart-programming-language-statistics-python-data-analysis-c-programming-language-icon-blue-text.png" alt="R"></code>
+<code><img height="27" src="https://e7.pngegg.com/pngimages/251/533/png-clipart-programming-language-statistics-python-data-analysis-c-programming-language-icon-blue-text.png" alt="R"></code> ...
 
