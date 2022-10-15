@@ -17,7 +17,7 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 
 - 🛠 &nbsp; Currently working on some personal projects for my portfolio.
 - 🚀 &nbsp; Interested in the fields of Data and Analytics.
-- 👨🏻‍💻 &nbsp; Most of my projects are available here on and my [Portfolio Website](https://sunilg-1.github.io/).
+- 👨🏻‍💻 &nbsp; Most of my projects are available here on GitHub and my [Portfolio Website](https://sunilg-1.github.io/).
 - 📫 &nbsp; How to reach me: sunilpgoroji469@gmail.com.
 
 ### Languages and Tools:
