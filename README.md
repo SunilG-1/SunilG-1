@@ -21,10 +21,15 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 - 📫 &nbsp; How to reach me: sunilpgoroji469@gmail.com.
 
 ### Languages and Tools:
+<!-- https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white -->
+<code><img height="27" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
+<code><img height="27" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"></code>
+<code><img height="27" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
+<code><img height="27" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></code>
+<code><img height="27" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"></code>
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://e7.pngegg.com/pngimages/251/533/png-clipart-programming-language-statistics-python-data-analysis-c-programming-language-icon-blue-text.png" alt="R"></code> ..
+
+<code><img height="27" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt= "Tableau"></code>
+<code><img height="27" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"></code>
+<code><img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></code> ..
 
