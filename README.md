@@ -22,7 +22,7 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 
 ### Languages and Tools:
 
-<!-- <code><img height="27" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel"></code>
+<code><img height="27" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel"></code>
 <code><img height="27" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
 <code><img height="27" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"></code>
 <code><img height="27" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
@@ -30,14 +30,4 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 <code><img height="27" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"></code>
 <code><img height="27" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt= "Tableau"></code>
 <code><img height="27" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"></code>
-<code><img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></code> .. -->
-
-<img height="27" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel">
-<img height="27" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-<img height="27" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
-<img height="27" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img height="27" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-<img height="27" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly">
-<img height="27" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt= "Tableau">
-<img height="27" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
-<img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> ..
+<code><img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></code> ..
