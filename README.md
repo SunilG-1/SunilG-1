@@ -28,7 +28,6 @@ I have recently completed my Bachelors's of Engineering 🎓 from Visvesvaraya T
 <code><img height="27" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
 <code><img height="27" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></code>
 <code><img height="27" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"></code>
-
 <code><img height="27" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt= "Tableau"></code>
 <code><img height="27" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"></code>
 <code><img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></code> ..
